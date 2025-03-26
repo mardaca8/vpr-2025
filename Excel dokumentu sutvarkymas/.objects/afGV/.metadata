@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Ataskaita - Excel",
+  "Type": "App",
+  "Id": "afGVW8CF-Uy9wT5Ssg05Jg",
+  "Reference": "uxT-uW4P2EGMvsmk_t169g/afGVW8CF-Uy9wT5Ssg05Jg",
+  "Created": "2025-03-26T20:26:59.5945651Z",
+  "Updated": "2025-03-26T20:26:59.5945651Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

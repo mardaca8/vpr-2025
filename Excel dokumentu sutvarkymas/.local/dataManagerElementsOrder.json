@@ -11,7 +11,12 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "db_apjungta&Sequence_8",
+        "db_FiltruotaApjungta&Sequence_8",
+        "index&Sequence_8",
+        "db_ataskaita&Sequence_3"
+      ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null

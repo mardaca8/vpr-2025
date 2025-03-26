@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1-DgMT9aI0O06zPasY8GDw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="299f931f-eeb2-491f-b75f-c03590ec142b" CvTextArea="1333, 107, 40, 12" CvTextArgument="Format" CvType="Text" DesignTimeRectangle="1332, 68, 43, 69" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;uia cls='MsoCommandBar' helpText='Ribbon toolbar' /&gt;&lt;uia cls='NetUIOrderedGroup' name='Home' /&gt;&lt;uia cls='NetUIChunk' name='Cells' /&gt;&lt;uia automationid='FormatCellsMenu' cls='NetUIAnchor' name='Format' /&gt;" FuzzySelectorArgument="&lt;uia cls='MsoCommandBar' helpText='Ribbon toolbar' /&gt;&lt;uia cls='NetUIOrderedGroup' name='Home' /&gt;&lt;uia cls='NetUIChunk' name='Cells' /&gt;&lt;uia automationid='FormatCellsMenu' cls='NetUIAnchor' name='Format' role='Menu Item' check:fulltext='Format' /&gt;" Guid="b8a4af56-3a2b-4871-8ceb-6cbe4a9fdbda" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='XLMAIN' title='Ataskaita - Excel' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1240, 66, 143, 91" ElementType="Container" FullSelectorArgument="&lt;uia cls='MsoCommandBar' helpText='Ribbon toolbar' /&gt;&lt;uia cls='NetUIOrderedGroup' name='Home' /&gt;&lt;uia cls='NetUIChunk' name='Cells' /&gt;" FuzzySelectorArgument="&lt;uia cls='MsoCommandBar' helpText='Ribbon toolbar' /&gt;&lt;uia cls='NetUIOrderedGroup' name='Home' /&gt;&lt;uia cls='NetUIChunk' name='Cells' role='Group' automationid='' check:fulltext='Insert Cells&amp;#x9;More Options&amp;#x9;&amp;#xA;Delete Cells...&amp;#x9;More Options&amp;#x9;&amp;#xA;Format' /&gt;" Guid="b81cd036-921b-465d-9630-ccd39eaddff9" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="538ded50b96d58ec66f892499a2ca8ef.png" xmlns="">0UNKdEOP0fESQhQWMiCpBBg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

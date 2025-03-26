@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-k90Wf-biUOOLtniIJyXZw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="170643b8-197a-4e40-8110-12e73b92b954" CvElementArea="55, 97, 74, 22" CvTextArea="84, 103, 17, 11" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="55, 97, 75, 23" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;uia cls='NetUIButton' name='OK' /&gt;" FuzzySelectorArgument="&lt;uia cls='NetUIButton' name='OK' role='Button' automationid='' check:fulltext='OK' /&gt;" Guid="d46f5426-d8d9-4f97-b93f-78ead53d11da" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='NUIDialog' title='Create Table' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="170643b8-197a-4e40-8110-12e73b92b954" CvElementArea="139, 97, 75, 23" CvTextArea="158, 103, 35, 11" CvTextArgument="Cancel" CvType="Button" DesignTimeRectangle="139, 97, 75, 23" ElementType="Button" FullSelectorArgument="&lt;uia cls='NetUIButton' name='Cancel' /&gt;" FuzzySelectorArgument="&lt;uia cls='NetUIButton' name='Cancel' role='Button' automationid='' check:fulltext='Cancel' /&gt;" Guid="c2f31678-3596-4875-972f-49710d6ede70" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="678ded1fb5ee7a51f8670f7ac729fc25.png" xmlns="">0wgWPmAL7uEiOFIRf0FFYrQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
